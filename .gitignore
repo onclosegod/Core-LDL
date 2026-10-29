@@ -1,0 +1,25 @@
+# Downloaded benchmark data
+dataset/
+datasets/
+*.mat
+
+# Generated experiment outputs and checkpoints
+outputs/
+*.pt
+*.pth
+*.ckpt
+*.log
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
